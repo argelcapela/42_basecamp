@@ -42,8 +42,8 @@ Esse repositório contém todos os exercícios executados durante o Basecamp da 
 
 ## :rocket: Rodando o projeto:<br>
     
-<li>Link Github: <a href="https://github.com/argelcapela/42_basecamp">Link</a></li>
-<li>Link 42 Page: <a href="#">Link</a></li>
+<li>Repositório no Github: <a href="https://github.com/argelcapela/42_basecamp">Link</a></li>
+<li>Link Oficial da 42 São Paulo: <a href="https://www.42sp.org.br/">Link</a></li>
  
 </div>
 <div class="row">
