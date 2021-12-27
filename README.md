@@ -10,7 +10,7 @@
 Esse repositório contém todos os exercícios executados durante o Basecamp da 42SP. Ocorrido no mês de Julho, do ano de 2021. Uma imersão intensa de programação em C. Muitos projetos diariamente, de segunda a segunda, sem intervalo. Desenvolvi muito o trabalho em equipe, comunicação entre outras habilidades. Uma experiência emocionante e de profundo crescimento. No fim, eu fui selecionado para tornar-me aluno da 42 São Paulo, todo esforço valeu a pena.
 </div>
 
-<div class="row">
+<div class="col-12">
 
 ## :wrench: Tecnologias utilizadas:<br>
 <div style="display: inline_block">
@@ -18,7 +18,7 @@ Esse repositório contém todos os exercícios executados durante o Basecamp da 
 
 </div>
 
-<div class="row">
+<div class="col-12">
     
 ## :books: Funcionalidades:<br>
 <table class="special-border">
@@ -38,7 +38,7 @@ Esse repositório contém todos os exercícios executados durante o Basecamp da 
     
 </div>
 
-<div class="row">
+<div class="col-12">
 
 ## :rocket: Rodando o projeto:<br>
     
@@ -46,14 +46,14 @@ Esse repositório contém todos os exercícios executados durante o Basecamp da 
 <li>Link Oficial da 42 São Paulo: <a href="https://www.42sp.org.br/">Link</a></li>
  
 </div>
-<div class="row">
+<div class="col-12">
 
 ## :soon: Implementação futura:<br>
     
 <li>Nada em mente por enquanto.</li>
     
 </div>
-<div class="row">
+<div class="col-12">
     
 
 ## :handshake: Colaboradores:<br>
@@ -70,11 +70,10 @@ Esse repositório contém todos os exercícios executados durante o Basecamp da 
   </tr>
 </table>
 </div>
-<div class="row">
+<div class="col-12">
     
 ## :dart: Status do projeto:<br>
 
 <li>Concluído 30/7/2021</li>
     
 </div>
-<br>
