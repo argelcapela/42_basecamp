@@ -47,7 +47,24 @@ $ gcc c00/ex01/ft_putchar.c main.c
 # 4) Execute o exercício
 $ ./a.out
 	
+```	
+	
+<br>
+	
+```c	
+/* main.c */
+
+#include "libft.h"
+
+int main(void)
+{
+	// Escrevendo na tela
+	ft_putstr_d("Hello Libft", 1);
+	return(0);
+}
+
 ```
+	
 	
 </div>
 <br>
